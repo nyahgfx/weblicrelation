@@ -1,0 +1,31 @@
+.ToolEnabledArea{ border: #000000 thin solid; width: 100%; height: 600px; padding: 5px; display: block; position: absolute;}
+
+.ToolbarTop{border: #000000 thin solid; width: 1158px; padding: 5px; position: absolute; height: 120px; }
+.ToolbarTopTitle{border: #000000 thin solid; width: auto; padding: 5px;background-color: #eeeeee; height: 30px;}
+.ToolbarTopContent{border: #000000 thin solid; width: auto; padding: 5px;height:70px;}
+.ToolbarTopTitle h3{height: 30px;margin: 0px; font-size: 14px;}
+
+.ToolbarBottom{border: #000000 thin solid; width: 1158px; padding: 5px; position: absolute; height: 120px;}
+.ToolbarBottomTitle{border: #000000 thin solid; width: auto; padding: 5px;background-color: #eeeeee;height: 30px;}
+.ToolbarBottomContent{border: #000000 thin solid; width: auto; padding: 5px;height:70px;}
+.ToolbarBottomTitle h3{height: 30px;margin: 0px; font-size: 14px;}
+
+.ToolbarLeft{border: #000000 thin solid; width: 120px; padding: 5px; top: 136px; position: absolute; height: auto; left: 5px; height:326px;}
+.ToolbarLeftTitle{border: #000000 thin solid; width: auto; padding: 5px;background-color: #eeeeee;height:25px;}
+.ToolbarLeftContent{border: #000000 thin solid; width: auto; padding: 5px; height: 276px;}
+.ToolbarLeftTitle h3{height: 30px;margin: 0px; font-size: 14px;}
+
+.ToolbarRight{border: #000000 thin solid; width: 120px; padding: 5px; top:136px;position: absolute; height: auto; right: 5px; height:326px;}
+.ToolbarRightTitle{border: #000000 thin solid; width: auto; padding: 5px; background-color: #eeeeee;height:25px;}
+.ToolbarRightContent{border: #000000 thin solid; width: auto; padding: 5px; height: 276px;}
+.ToolbarRightTitle h3{height: 30px;margin: 0px; font-size: 14px;}
+
+.clear{clear: both;}
+
+.modcorr{ left:5px; top: 1px; margin: 0px;}
+.modcorrRight{ right:5px; top: 1px; margin: 0px;}
+.modcorrBottom{ left:5px; bottom: 5px; margin: 0px;}
+
+  
+
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<users>
+	<user>
+		<email>rh@nyah.ch</email>
+		<pw>garkeins</pw>
+		<role>admin</role>
+	</user>
+	<user>
+		<email>x@44u.ch</email>
+		<pw>garkeins</pw>
+		<role>admin</role>
+	</user>
+	<user>
+		<email>mh@weblicrelation.ch</email>
+		<pw>garkeins</pw>
+		<role>manager</role>
+	</user>
+	<user>
+		<email>user@weblicrelation.ch</email>
+		<pw>garkeins</pw>
+		<role>user</role>
+	</user>
+	<user>
+		<email>gast@weblicrelation.ch</email>
+		<pw>garkeins</pw>
+		<role>gast</role>
+	</user>
+</users>
